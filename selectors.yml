@@ -1,0 +1,10 @@
+name:
+    css: '.product-name'
+    type: Text
+price:
+    css: '.product-info-data product-price'
+    type: Text
+short_description:
+    css: '.product-info-data product-status'
+    type: Text
+
